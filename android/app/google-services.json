@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "780979365314",
+    "firebase_url": "https://pashewfood-default-rtdb.firebaseio.com",
+    "project_id": "pashewfood",
+    "storage_bucket": "pashewfood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780979365314:android:36e75bd53014ba6c2ca25b",
+        "android_client_info": {
+          "package_name": "com.example.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780979365314-r1hc8mvdgoa0e88tts29muahd821br6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0p3ZuMT1_wzOfScUVPFLzeZDSuONw_Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780979365314-r1hc8mvdgoa0e88tts29muahd821br6m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "780979365314-c4mf2b6b8lmuiq7tf2e5dc3mokpbert1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.onlineFood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780979365314:android:80b6b3f63b5349872ca25b",
+        "android_client_info": {
+          "package_name": "com.example.manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780979365314-r1hc8mvdgoa0e88tts29muahd821br6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0p3ZuMT1_wzOfScUVPFLzeZDSuONw_Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780979365314-r1hc8mvdgoa0e88tts29muahd821br6m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "780979365314-c4mf2b6b8lmuiq7tf2e5dc3mokpbert1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.onlineFood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780979365314:android:8845ab6fd75b86142ca25b",
+        "android_client_info": {
+          "package_name": "com.example.online_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780979365314-n2aknuvbfb9bntqfq34th456ht170j09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.online_food",
+            "certificate_hash": "20ea88a937e55c8b9d368c1904c696f56f2df99c"
+          }
+        },
+        {
+          "client_id": "780979365314-r1hc8mvdgoa0e88tts29muahd821br6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0p3ZuMT1_wzOfScUVPFLzeZDSuONw_Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780979365314-r1hc8mvdgoa0e88tts29muahd821br6m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "780979365314-c4mf2b6b8lmuiq7tf2e5dc3mokpbert1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.onlineFood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
