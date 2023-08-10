@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:driver/pages/contact_us.dart';
 import 'package:driver/pages/delivery.dart';
 import 'package:driver/pages/profile.dart';
+import 'package:driver/pages/order.dart';
 import 'package:driver/pages/settings.dart';
 import 'package:driver/widgets/drawer_list_tile.dart';
 import 'package:driver/main.dart';
@@ -65,7 +66,7 @@ class Drawers extends StatelessWidget {
                   )),
               DrawerListTile(
                   svg: "package", title: "Orders",
-                  page: Settings()),
+                  page: Order()),
               DrawerListTile(
                   svg: "settings", title: "Settings",
                   page: Settings()),

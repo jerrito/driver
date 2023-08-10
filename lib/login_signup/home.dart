@@ -214,7 +214,7 @@ trackUserLocation:  const UserTrackingOption(
                     unFollowUser: false,
                   ),
                   //isPicker: true,
-                  initZoom: 16,
+                  initZoom: 17,
                   minZoomLevel: 2,
                   maxZoomLevel: 18,
                   stepZoom: 1.0,
