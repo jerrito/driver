@@ -218,7 +218,7 @@ class _OrderState extends State<Order> {
                             .doc(id).update(gg);
                       },
                       color: Colors.white,
-                      child:  Text("Accept"),
+                      child:  const Text("Accept"),
                     ),
                   ),
                   SizedBox(width:120,
